@@ -1,2 +1,9 @@
 # Speaker_Verification
- SV Proejct
+ Design Project On Speaker Verification :
+ 
+ => Focus on Speaker Verification, KIOSk Implementation is the final object
+ 
+ 
+ 
+ 
+ 
