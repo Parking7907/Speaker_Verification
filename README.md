@@ -16,6 +16,11 @@ KIOSK Implementation is the final object
 
 # Dependencies
 PyTorch 0.4.1
+
 python 3.5+
+
 numpy 1.15.4
+
 librosa 0.6.1
+
+
