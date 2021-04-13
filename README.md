@@ -27,7 +27,12 @@ Target object on Visualized Demo & Implementation on GUI Environment
 
 Focus on Speaker Verification for security issues, such as biometric recognition system on "Voice"
 
-KIOSK Implementation is the final object 
+# Demo
+
+[![Demo](http://img.youtube.com/vi/eQJUCRxU7wE/0.jpg)](https://youtu.be/eQJUCRxU7wE) 
+
+
+KIOSK Implementation would be final object 
 
 : audio command working for authroized personnels, not working for unauthorized.
 
