@@ -58,4 +58,5 @@ numpy 1.15.4
 librosa 0.6.1
 
 (Demo)
-
+To be updated
+(Error due to GPU-CUDA Version)
